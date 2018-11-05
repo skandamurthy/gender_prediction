@@ -5,8 +5,8 @@
   
 ### Requirements
 '''
-Requests [link to pypi](https://pypi.org/project/requests/).
-json (In-built)
+1.Requests [link to pypi](https://pypi.org/project/requests/)
+2.json (In-built)
 '''
 ### Working
 When we make a "GET" call to the api, it returns a json containing results. 
